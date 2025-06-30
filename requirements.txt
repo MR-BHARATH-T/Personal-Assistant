@@ -1,0 +1,11 @@
+gTTS
+streamlit
+streamlit-mic-recorder
+google-generativeai
+wikipedia
+pyautogui
+requests
+pyjokes
+pywhatkit
+beautifulsoup4
+pyaudio
