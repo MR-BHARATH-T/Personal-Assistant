@@ -1,8 +1,8 @@
 # config.py
-GEMINI_API_KEY = "AIzaSyB3u8ZebEjuFrD-oRAV6SDwiTYdXTcaqgg"
+GEMINI_API_KEY = "Your_API_Key"
 
-EMAIL_ADDRESS = "theeasyedu07@gmail.com"
-EMAIL_PASSWORD = " "
+EMAIL_ADDRESS = "your@gmail.com"
+EMAIL_PASSWORD = " Your password "
 
-WEATHER_API_KEY = "0da2b21562f521dd53aa270bd5ecda4e"
+WEATHER_API_KEY = "Your_API_Key"
 DEFAULT_CITY = "Bengaluru"
